@@ -1,0 +1,1602 @@
+1613566870799	geckodriver	INFO	Listening on 127.0.0.1:52033
+1613566873877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilewRCPIU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613566876344	Marionette	INFO	Listening on port 52041
+1613566876559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613566876575	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613566949196	geckodriver	INFO	Listening on 127.0.0.1:52220
+1613566952285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileWUP8lP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613566955707	Marionette	INFO	Listening on port 52228
+1613566955997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613566956014	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NS_ERROR_FAILURE
+1613566994665	Marionette	INFO	Stopped listening on port 52228
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613567195649	geckodriver	INFO	Listening on 127.0.0.1:52557
+1613567198716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofiledybXkq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613567202400	Marionette	INFO	Listening on port 52570
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613567202905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613567202920	Marionette	ERROR	[15] No reply from Marionette:Register
+1613567286606	geckodriver	INFO	Listening on 127.0.0.1:52843
+1613567289690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofiletWfXgI"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613567292683	Marionette	INFO	Listening on port 52853
+1613567292907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613567292929	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1613567366258	Marionette	INFO	Stopped listening on port 52853
+1613568745180	geckodriver	INFO	Listening on 127.0.0.1:53806
+1613568748254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilesIxJja"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613568750657	Marionette	INFO	Listening on port 53814
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613568750938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613568750958	Marionette	ERROR	[15] No reply from Marionette:Register
+1613721118039	geckodriver	INFO	Listening on 127.0.0.1:53376
+1613721121214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileN2txiV"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613721124632	Marionette	INFO	Listening on port 53384
+1613721124964	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613721124987	Marionette	ERROR	[15] No reply from Marionette:Register
+1613721390099	geckodriver	INFO	Listening on 127.0.0.1:54051
+1613721393194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileho0GGZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613721395625	Marionette	INFO	Listening on port 54069
+1613721395864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613721395895	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613731004955	geckodriver	INFO	Listening on 127.0.0.1:52444
+1613731008031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileNZAax3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613731011936	Marionette	INFO	Listening on port 52454
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613731012273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613731012288	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1613731075638	Marionette	INFO	Stopped listening on port 52454
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ofile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofile0g1JnZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613731064245	Marionette	INFO	Listening on port 52561
+1613731064479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613731064498	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NS_ERROR_FAILURE
+1613731076359	Marionette	INFO	Stopped listening on port 52561
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613731561291	geckodriver	INFO	Listening on 127.0.0.1:52850
+1613731564345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofile5qqW1o"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613731568001	Marionette	INFO	Listening on port 52858
+1613731568074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613731568090	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 139"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:139:62
+takeScreenshot@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:264:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 139"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:139:62
+takeScreenshot@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:264:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 139"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:139:62
+takeScreenshot@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:264:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 139"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:139:62
+takeScreenshot@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:264:32
+
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1613731781255	Marionette	INFO	Stopped listening on port 52851613731783392	mozrunner::runner	INFO	Running command: "C:\\Prog1613731784340	mozrunner::runner	INFO	Running command: "C:\\P1613731784555	mozrunner::runner	INFO	Running command: "C:\\P1613731784835	mozrunner::runner	INFO	Running command: "C:\\P1613731785254	mozrunner::runner	INFO	Running command: "C:\\P1613731785356	mozrunner::runner	console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings fileconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,1613731791389	Marionette	INFO	Listening on port 53184
+16137console.warn: SearchSettings: "get: No settings file exists,1613731792983	Marionette	INFO	Listening on port 53200
+1613731793236	Marionette	WARN	TLS certificate errors will be1613731793422	Marionette	WARN	TLS certificate errors will be igno1613731793642	Marionette	INFO	Lisconsole.warn: SearchSe1613731793879	Marionette	WARN	TLS certificate errors will be ignored for this session
+16137317939console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+ exists, new profile?" (new Error("", "(unknown module)"))
+44	Marionette	ERROR	[15] No reply from Marionette:Register
+ exists, new profile?" (new Error("", "(unknown module)"))
+1613732015223	geckodriver	INFO	Listening on 127.0.0.1:54362
+1613732018298	mozrunner::runner	INFO	Running command: "C:\\P1613732018738	mozrunner::runner	INFO	Running command: "C:\\P1613732018914	mozrunner::runner	INFO	Running command: "C:\\P1613732019128	mozrunner::runner	INFO	Running command: "C:\\P1613732019209	mozrunner::runner	console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1613732023569	Marionette	INFO	Listening on port 54422
+conso1613732025073	Marionette	INFO	Listening on port 54436
+consoconsole.warn: SearchSettings: "get: No settings file exists,1613732028265	Marionette	INFO	Listening on port 54454
+consoconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new ErrorA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel er[Parent 16956, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2292: TypeError: subject.QueryInterface is not a function
+1613732037456	Marionette	ERROR	[33] No reply from Marionette:Register
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 16956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+ror: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 20780, IPC I/O Parent] WARNING: pipe er
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A001F,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230054,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x23009D,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230054,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x23009D,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230054,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x23009D,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMesA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2292: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2292: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2292: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2292: TypeError: subject.QueryInterface is not a function
+1613732037551	Marionette	ERROR	[33] No reply from Marionette:Register
+1613732080985	geckodriver	INFO	Listening on 127.0.0.1:55233
+1613732084061	mozrunner::runner	INFO	Running command: "C:\\P1613732084122	mozrunner::runner	INFO	Running command: "C:\\P1613732084341	mozrunner::runner	INFO	Running command: "C:\\P1613732084572	mozrunner::runner	INFO	Running command: "C:\\P1613732084945	mozrunner::runner	console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1613732089399	Marionette	INFO	Listening on port 55290
+1613732089627	Marionette	WARN	TLS certificate errors will be igno1613732091242	Marionette	INFO	Listening on port 55308
+console.warn: SearchSettings: "get: No settings file exists,consoconsole.warn: SearchSettings: "get: No settings file exists,1613732092426	Marionette	1613732136792	Marionette	INFO	Stopped listening on port 55290
+JavaScript error: resource://gre/modules/AsyncShutdown.js1613732138158	Marionette	INFO	Stopped listening on port 5530JavaScript error: , line 0: NS_ERROR_FAILURE
+1613732156265	Marionette	INFO	Stopped listening on port 55314
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00D41613732197283	Marionette	INFO	Stopped listening on port 55327
+3732161118	Marionette	INFO	Stopped listening on port 55331613732206203	Marionette	INFO	Stopped listening on port 55346
+e to send/recv, messages will be lost
+
+\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileKvGQV0"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732122981	Marionette	INFO	Listening on port 56116
+1613732123454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613732123475	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732154660	Marionette	INFO	Stopped listening on port 56116
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NS_ERROR_FAILURE
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileXgO37U"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732149474	Marionette	INFO	Listening on port 56279
+1613732149553	Marionette	WARN	TLS certificate errors will be ignored for this session
+16137321495JavaScript error: , line 0: NS_ERROR_FAILURE
+1613732288147	Marionette	INFO	Stopped listening on port 56257
+.0.1:56407
+1613732156115	mozrunner::runner	INFO	Running command: "C:\\P1613732158317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\ruconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732164295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileMFHPDW"
+*** You are running in headless JavaScript error: , line 0: NS_ERROR_FAILURE
+1613732263638	Marionette	INFO	Stopped listening on port 56449
+n port 56467
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NS_ERROR_FAILURE
+	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-re1613732218993	Marionette	INFO	Stopped listening on port 56548
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NS_ERROR_FAILURE
+get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732171744	Marionette	INFO	Listening on port 56664
+1613732171974	Marionette	WARN	TLS certificate errors will be ignored for this session
+16137321720JavaScript error: , line 0: NS_ERROR_FAILURE
+tte:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NS_ERROR_FAILURE
+7.0.0.1:56891
+1613732195581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileucMFNu"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732198100	Marionette	INFO	Listening on port 56901
+1613732198264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613732198280	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732246795	Marionette	INFO	Stopped listening on port 56901
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NS_ERROR_FAILURE
+firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofile3H4Pjc"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists,1613732207902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileOw6tBu"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown modulJavaScript error: , line 0: NS_ERROR_FAILURE
+settings file 1613732211848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileH7DL3c"
+*** You are running in headless mode.
+1613732241264	Marionette	INFO	Stopped listening on port 57041
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NS_ERROR_FAILURE
+settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732216101	Marionette	INFO	Listening on port 57113
+1613732216522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613732216549	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1613732276893	Marionette	INFO	Stopped listening on port 57113
+and: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilezBzxoY"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732226476	Marionette	INFO	Listening on port 57254
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732226917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613732226933	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1613732297473	Marionette	INFO	Stopped listening on port 57254
+and: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileLwkuSr"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists,1613732251317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofiletmypPX"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown modul1613732292872	Marionette	INFO	Stopped listening on port 57400
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NS_ERROR_FAILURE
+13732254524	Marionette	ERROR	[18] No reply from Marionette:Register
+1613732269960	geckodriver	INFO	Listening on 127.0.0.1:57593
+1613732273029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofiletmbNN7"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732275556	Marionette	INFO	Listening on port 57605
+1613732275712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613732275728	Marionette	ERROR	[15] No reply from Marionette:Register
+1613732282491	geckodriver	INFO	Listening on 127.0.0.1:57673
+1613732285544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilesKTVZu"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732289165	Marionette	INFO	Listening on port 57700
+1613732289244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613732289270	Marionette	ERROR	[15] No reply from Marionette:Register
+1613732291358	geckodriver	INFO	Listening on 127.0.0.1:57773
+1613732294397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilesng3VU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists,1613732298950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilej4ZKSK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732301567	Marionette	INFO	Listening on port 57864
+1613732301648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613732301679	geckodriver	INFO	Listening on 127.0.0.1:57902
+1613732304734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofile3cXk1l"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732495105	geckodriver	INFO	Listening on 127.0.0.1:58066
+1613732498190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileYRGKqV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732501396	Marionette	INFO	Listening on port 58077
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732501896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613732501920	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1613732561923	Marionette	INFO	Stopped listening on port 58077
+1613732565193	geckodriver	INFO	Listening on 127.0.0.1:58165
+1613732568323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileL2YSJ3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732571443	Marionette	INFO	Listening on port 58173
+1613732571518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613732571534	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NS_ERROR_FAILURE
+1613732586611	Marionette	INFO	Stopped listening on port 58173
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613732965532	geckodriver	INFO	Listening on 127.0.0.1:58314
+1613732968631	mozrunner::runner	INFO	Running command: "C:\\P1613732968755	mozrunner::runner	INFO	Running command: "C:\\P1613732970805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732981933	Marionette	INFO	Listening on port 58382
+1613732982574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613732982616	Marionette	ERROR	[15] No reply from Mariconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732987156	Marionette	INFO	Listening on port 58443
+1613732987546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613732987572	Marionette	ERROR	[15] No reply from Marionette:Register
+nette	ERROR	[15] No reply from Marionette:Register
+1613733003139	geckodriver	INFO	Listening on 127.0.0.1:59163
+1613733006189	mozrunner::runner	INFO	Running command: "C:\\P1613733007066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,1613733010886	mozrunner::runner	INFO	Running command1613733011320	Marionette	INFO	Listening on port 59209
+1613733011420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613733011450	Marionette	ERconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613733016664	Marionette	INFO	Listening oExiting due to channel error.
+ner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1613733021416	Marionette	INFO	Listening on port 59388
+conso1613733021892	Marionette	INFO	Listening on port 59412
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NS_ERROR_FAILURE
+1613733022434	Marionette	INFO	Stopped listening on port 59412
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613733082221	geckodriver	INFO	Listening on 127.0.0.1:59513
+1613733085303	mozrunner::runner	INFO	Running command: "C:\\P1613733085331	mozrunner::runner	INFO	Running command: "C:\\P1613733085366	mozrunner::runner	INFO	Running command: "C:\\P1613733085451	mozrunner::runner	INFO	Running command: "C:\\P1613733085656	mozrunner::runner	console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613733091639	Marionette	INFO	Listening on port 59571
+1613733091957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613733091985	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+iting due to channel error.
+Exiting due to channel error.
+iting due to channel error.
+ in our list are installed.
+Exiting due to channel error.
+Fconsole.console.log: WebExtensions: reset-default-search: No addons console.log: WebExteExiting due to channel error.
+o addons console.log: WebExteExiting Exiting due to channel Exiting due to channel error.
+led.
+Exiting due to channel error.
+command: "C:\\P1613733116022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileNQA919"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613733119391	Marionette	INFO	Listening on port 60461
+1613733119711	Marionette	WARN	TLS certificateconsole.warn: SearchSettings: "get: No settings file 1613733120103	mozrunner::runner	INFO	Running command: "C:\\console.warn: SearchSettings: "get: No settings file exists, 1613733121666	mozrunner::runner	INFO	Running command: "C:\\P1613733122124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\fconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings fileconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,1613733126631	Marionette	INFO	Listening on port 60684
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613733127060	Marionette	WARN	TLS certificate errors console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown modul1613733152701	Marionette	INFO	Stopped listening on port 60684
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NS_ERROR_FAILURE
+refox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofile7lLB6D"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file 1613733135154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilet1613733*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613733138898	Marionette	INFO	Listening on port 61119
+161371613733139728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilerX2O9W"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613733142727	Marionette	INFO	Listening on port 61213
+1613733142940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613733142960	Marionette	ERROR	[15] No reply from Marionette:Register
+1613733153635	geckodriver	INFO	Listening on 127.0.0.1:61399
+1613733156701	mozrunner::runner	INFO	Running command: "C:\\P1613733159134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\ruconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+(unknown module)"))
+1613733169174	Marionette	INFO	Listening on port 61418
+1613733169974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613733170007	Marionette	ERROR	[15] No reply from Marionette:Register
+gs file exists,console.warn: SearchSettings: "get: No settings file exists,Exiting due to channel error.
+Exiting due to channel error.
+e to channel error.
+Exiting due to channel error.
+iting due to channel error.
+unny\\AppData\\Local\\Temp\\rust_mozprofileRCbFTF"
+*** You are running in headless mode.
+1613733170938	geckodriver	INFO	Listening on 127.0.0.1:61600
+1613740157446	geckodriver	INFO	Listening on 127.0.0.1:63633
+1613740160502	mozrunner::runner	INFO	Running command: "C:\\P1613740160791	mozrunner::runner	INFO	Running command: "C:\\P1613740161074	mozrunner::runner	INFO	Running command: "C:\\P1613740161257	mozrunner::runner	INFO	Running command: "C:\\P1613740161512	mozrunner::runner	console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings fileconsole.console.warn: SearchSettings: "get: No settings fileconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)1613716137401console.warn: 16137401681JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript errorJavaScript error: , line 0: uncaught excJavaScript errorJavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught excJavaScript eJavaScript error: , line 0: uncaught exception: Object
+JavaJavaScript error: , line 0: uncaught exception: JavaScriJavaScript error: , line 0: uncaught exception: JavaScriJavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught excJavaScriJavaExiting due to channel error.
+t exception: Exiting Exiting due to channel error.
+due to channel error.
+ Object
+Exiting due to channel error.
+Exiting due to channel error.
+avaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+ line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+or: , line 0: uncaught exception: Object
+Exiting due to channel error.
+r.
+Exiting due to channel error.
+Exiting due to channel error.
+ncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+: , line 0: NS_ERROR_FAILURE
+settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613740201153	Marionette	INFO	Listening on port 64541
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613740201427	Marionette	WARN	TLS certificate JavaScript error: , line 0: NS_ERROR_FAILURE
+40201445	Mario1613740202375	mozrunner::runner	INFO	Running commandJavaScript error: , line 0: NS_ERROR_FAILURE
+.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileFu8jy4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613740204911	Marionette	INFO	Listening on port 64662
+1613740205049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613740205071	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+7.0.0.1:64731
+1613740209424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofile7KjUVE"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613740212111	Marionette	INFO	Listening on port 64777
+conso1613740215044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilebcxATj"
+*** You are running in headless JavaScript error: , line 0: NS_ERROR_FAILURE
+settings file 1613740217660	mozrunner::runner	INFO	Running command: "C:\\11613740217909	mozrunner::runner	INFO	Running command: consol1613740219557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\ruconsole.warn: SearchSettings: "get: No settings fileJavaScript error: , line 0: NS_ERROR_FAILURE
+ settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613740223273	Marionette	INFO	Listening on port 64971
+1613740223423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613740223471	Marionette	ERROR	[18] No reply from Marionette:ReJavaScript error: , line 0: NS_ERROR_FAILURE
+ settings fileJavaScript error: , line 0: NS_ERROR_FAILURE
+n module)"))
+JavaScript error: , line 0: NS_ERROR_FAILURE
+ommand: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilewxGC76"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613740238795	Marionette	INFO	Listening on port 65134
+1613740238969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613740239007	Marionette	ERROR	[15] No console.warn: SearchSettings: "gJavaScript error: , line 0: NS_ERROR_FAILURE
+w Error("", "(unknown module)"))
+1613740239661	Marionette	INFO	Listening on port 65219
+1613740240352	Marionette	WARN	TLS certificate errors console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settinJavaScript error: , line 0: NS_ERROR_FAILURE
+(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613740253033	Marionette	INFO	Listening on port 65303
+1613740253375	Marionette	WARN	TLS certificate errors will be ignored for this session
+16137402534JavaScript error: , line 0: NS_ERROR_FAILURE
+tte:Register
+gs fileconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613740252937	Marionette	INFO	Listening on port 65391
+1613740253457	Marionette	WARN	TLS certificate errors console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1613740258067	Marionette	INFO	Listening on port 65533
+console.warn: SearchSettings: "get: No settings file exists, new console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613740260839	Marionette	INFO	Listening on port 49215
+1613740261397	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613740261446	Marionette	ERROR	[15] No reply from Marionette:Register
+1613740263600	geckodriver	INFO	Listening on 127.0.0.1:49539
+1613740266615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\ruconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings fileconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613740274028	Marionette	INFO	Listening on port 49599
+1613740274175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613740274209	Mariconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613740275215	Marionette	INFO	Listening on port 49616
+1613740275769	Marionette	WARN	TLS certificate errors console.warn: SearchSettings: "get: No settings file exists,1613740278377	mozrunner::runner	INFO	Running commandconsole.warn: SearchSettings: "get: No settings file 1613740279517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marione1613740279583	Marionette	WARN	TLS certificate errors console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown modulconsoleconsole.warn: SearchSettings: "get: No settings file exists,1613740287293	mozrunner::runner	INFO	Running console.warn: S1613740287557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-re1613740288351	Marionette	WARN	TLS certificate errors Exiting due to channel error.
+ings: "get: No settings file exists, new profile?" (new Error("", "(unknowExiting due to channel error.
+Exiting due to channel error.
+file exists, new profile?" (new Error("", "(unknown module)"))
+1613740299568	Marionette	INFO	Listening on port 50689
+1613740301132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613740301183	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons console.log: WebExtensions: JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+ uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exceptioJavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+vaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+aught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+ line 0: uncaught exception: Object
+Exiting due to channel error.
+ception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+vaScriJavaScript error: , line 0: uncaught exception: ObjeJavaExiting due to channel error.
+Exiting due to channeExiting due Exiting due to channel error.
+to channel error.
+
+Exiting due to channel error.
+ion: Object
+[GFX1-]: Receive IPC close with reason=AbnormalShutdExiting due to channel error.
+own
+Exiting due to channel error.
+Exiting due to chExiting due to channel error.
+Exiting due to channel error.
+Exiting due to channeExiting due to channel error.
+ , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+ uncaught exception: Object
+ct
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+ncaught exception: Object
+JavaScriJavaScript error: , line 0: uncaught exception: JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaJavaScript error: , line 0: uncaught exception: ObjeJavaScript error: , line 0: uncaught exception: Object
+JavaJavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: ObjeJavaExiting due to channel error.
+t exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+
+Exiting due to channel error.
+Exiting due to channel error.
+vaScript error: , line 0: uncaught exception: Object
+earch: No addons console.log: WebExtensions: JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaJavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaJavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: ObjeJavaScript error: , line 0: uncaught exception: Object
+JavaJavaScript error: , line 0: uncaught exception: ObjeExiting due to channel error.
+Exiting due to channel error.
+ error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+tion: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+reset-default-search: No addons console.log: WebExtensions: JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaJavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: ObjeJavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+ uncaught exception: Object
+pt error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+ct
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+ error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+iting due to channel error.
+aught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: ObjeJavaScript error: , line 0: uncaught exception: Object
+ct
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+ine 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+t exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+aught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+ine 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+r.
+Exiting due to channel error.
+t
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+ception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channeExiting due to channel error.
+Exiting due to channel error.
+ript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Script error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+on: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channeExiting due to channel error.
+Exiting due to channel error.
+ error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+bject
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+vaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+0: uncaught exception: Object
+Exiting due to channel error.
+: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Script error: , line 0: uncaught exception: Object
+JavaJavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+t exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+ript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+ to channel error.
+aught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+ uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Script error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: ObjeJavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+ uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+ript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript erJavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+ line 0: uncaught exception: Object
+Exiting due to channel error.
+ne 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+ript error: , line 0: uncaught exception: ObjeJavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+ uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+ error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+ error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+t exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+ error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+ject
+JavaScript error: , line 0: uncaught exception: Object
+Script error: , line 0: uncaught exception: ObjeJavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+ct
+JavaScript error: , line 0: uncaught exception: Object
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+ipt error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+ght exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+ject
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Object
+JavaScrJavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JJavaScript error: , line 0: uncaught exception: ObjectJavaScript error: , line 0: uncaught exception: Object
+JJavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: ObjectJExiting due to channel error.
+Exiting due to channel error.
+or: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+bject
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+r: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+aught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+ error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+vaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+t exception: ObjeJavaJavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+e to channel error.
+ No addons console.log: WebExtensions: JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaJavaScript error: , line 0: uncaught exception: ObjeJavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaJavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: ObjeJavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaJavaScript error: , line 0: uncaught exception: ObjeJavaJavaScript error: , line 0: uncaught exception: ObjeExitExiting due to channel error.
+ing due to channel error.
+Exiting due to channel error.
+caught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: OJavaScrJavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+xception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+or: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+ uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+aught exception: Object
+Exiting due to channel error.
+ject
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+ror: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons console.log: WebExtensions: JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaJavaScript error: , line 0: uncaught exception: ObjeJavaScript error: , line 0: uncaught exception: Object
+JavaJavaScript error: , line 0: uncaught exception: ObjeJavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+ uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+, line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+ine 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+ght exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+41762513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613741762539	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+eground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofile9RTlq6"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613741800789	Marionette	INFO	Listening on port 60770
+1613741800936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613741800956	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileOYpUN1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613741932321	Marionette	INFO	Listening on port 60889
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613741932470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613741932491	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofile2xcKdN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613741953882	Marionette	INFO	Listening on port 60970
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613741954074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613741954089	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+eground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileKcCZZ2"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613741975889	Marionette	INFO	Listening on port 61045
+1613741975955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613741975995	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+eground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofile2uzbNB"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613741999590	Marionette	INFO	Listening on port 61122
+1613741999709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613741999742	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+eground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofile7fKcmO"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742026175	Marionette	INFO	Listening on port 61217
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742026389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742026406	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilexxI2s3"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742048648	Marionette	INFO	Listening on port 61295
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742048829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742048845	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+eground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileHmGZLg"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742092235	Marionette	INFO	Listening on port 61418
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742092781	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742092801	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileIXZcjq"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742114633	Marionette	INFO	Listening on port 61504
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742115036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742115057	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilegHILqI"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742145224	Marionette	INFO	Listening on port 61595
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742145735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742145756	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+eground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilefHHNSq"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742176405	Marionette	INFO	Listening on port 61691
+1613742176466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742176499	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileYQNOuh"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742194859	Marionette	INFO	Listening on port 61771
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742195018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742195037	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileZX2yzP"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742217280	Marionette	INFO	Listening on port 61850
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742217585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742217604	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofile4Lt8AL"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742246448	Marionette	INFO	Listening on port 61938
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742246670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742246686	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileGpuCT9"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742265558	Marionette	INFO	Listening on port 62037
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742265814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742265831	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileWd2XXz"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742295763	Marionette	INFO	Listening on port 62138
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742295837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742295862	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilehzA2F9"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742319734	Marionette	INFO	Listening on port 62215
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742320213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742320232	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilee2U2gu"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742338850	Marionette	INFO	Listening on port 62311
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742339123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742339139	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.error: services.settings: 
+  security-state/intermediates Signature failed  [Exception... "Out of Memory arg 0 [nsIContentSignatureVerifier.asyncVerifyContentSignature]"  nsresult: "0x8007000e (NS_ERROR_OUT_OF_MEMORY)"  location: "JS frame :: resource://services-settings/RemoteSettingsClient.jsm :: _validateCollectionSignature :: line 837"  data: no]
+console.error: services.settings: 
+  Message: [Exception... "Out of Memory arg 0 [nsIContentSignatureVerifier.asyncVerifyContentSignature]"  nsresult: "0x8007000e (NS_ERROR_OUT_OF_MEMORY)"  location: "JS frame :: resource://services-settings/RemoteSettingsClient.jsm :: _validateCollectionSignature :: line 837"  data: no]
+  Stack:
+    _validateCollectionSignature@resource://services-settings/RemoteSetconsole.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+eground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileu26BAX"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742378617	Marionette	INFO	Listening on port 62475
+1613742378682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742378703	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofile8fBUsQ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742402182	Marionette	INFO	Listening on port 62568
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742402464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742402497	Marionette	ERROR	[15] No reply from Marionette:Register
+1613742420648	Marionette	INFO	Stopped listening on port 62568
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NS_ERROR_FAILURE
+1613742422190	geckodriver	INFO	Listening on 127.0.0.1:62648
+1613742425254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilek05ITW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742427829	Marionette	INFO	Listening on port 62656
+1613742427941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742427969	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+eground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofile4IUV77"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742451311	Marionette	INFO	Listening on port 62750
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742451828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742451849	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileUcWMwe"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742481848	Marionette	INFO	Listening on port 62839
+1613742481920	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742481945	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileOXIi9s"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742505038	Marionette	INFO	Listening on port 62921
+1613742505170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742505192	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+eground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileOiE1u7"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742523794	Marionette	INFO	Listening on port 63010
+1613742524313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742524333	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 44: unknown (can't convert to string)
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742545554	Marionette	INFO	Listening on port 63101
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742546003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742546025	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: "RemoteSettingsWorker error: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data"
+console.error: services.settings: 
+DOMException
+  - prototype DOMException
+    - ABORT_ERR = 20
+    - DATA_CLONE_ERR = 25
+    - DOMSTRING_SIZE_ERR = 2
+    - HIERARCHY_REQUEST_ERR = 3
+    - INDEX_SIZE_ERR = 1
+    - INUSE_ATTRIBUTE_ERR = 10
+    - INVALID_ACCESS_ERR = 15
+    - INVALID_CHARACTER_ERR = 5
+    - INVALID_MODIFICATION_ERR = 13
+    - INVALID_NODE_TYPE_ERR = 24
+    - INVALID_STATE_ERR = 11
+    - NAMESPACE_ERR = 14
+    - NETWORK_ERR = 19
+    - NOT_FOUND_ERR = 8
+    - NOT_SUPPORTED_ERR = 9
+    - NO_DATA_ALLOWED_ERR = 6
+    - NO_MODIFICATION_ALLOWED_ERR = 7
+    - QUOTA_EXCEEDED_ERR = 22
+    - SECURITY_ERR = 18
+    - SYNTAX_ERR = 12
+    - TIMEOUT_ERR = 23
+    - TYPE_MISMATCH_ERR = 17
+    - URL_MISMATCH_ERR = 21
+    - VALIDATION_ERR = 16
+    - WRONG_DOCUMENT_ERR = 4
+    - code = 20
+    - columnNumber = 0
+    - data = null
+    - filename = 
+    - lineNumber = 0
+    - location = null
+    - message = The operation was aborted. 
+    - name = AbortError
+    - result = 2152923156
+    - stack = 
+  - prototype Error
+  - prototype Object
+console.error: services.settings: 
+  Message: UnknownError: IndexedDB: main/fxmonitor-breaches list() IndexedDB:  execute() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+7.0.0.1:63366
+1613742629166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileh4OxxR"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742631702	Marionette	INFO	Listening on port 63374
+1613742631854	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742631872	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+out of memory: 0x0000000000001000 bytes requested
+Exiting due to channel error.
+iles\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilewflpfR"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742658123	Marionette	INFO	Listening on port 63479
+1613742658272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742658295	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NS_ERROR_FAILURE
+7.0.0.1:63550
+1613742682871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofile5m8Yfi"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742685477	Marionette	INFO	Listening on port 63559
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742685578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742685593	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+7.0.0.1:63634
+1613742705573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileE6vRvr"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742708400	Marionette	INFO	Listening on port 63645
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613742708789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613742708808	Marionette	ERROR	[15] No reply from Marionette:Register
+Marionette threw an error: <unprintable error>
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1613807344336	geckodriver	INFO	Listening on 127.0.0.1:60462
+1613807599369	geckodriver	INFO	Listening on 127.0.0.1:60557
+1613807705710	geckodriver	INFO	Listening on 127.0.0.1:60663
+1613807708772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileMIMNzt"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613807747534	geckodriver	INFO	Listening on 127.0.0.1:60732
+1613807750605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileHSI3cm"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613807753030	Marionette	INFO	Listening on port 60740
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613807753325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613807753346	Marionette	ERROR	[15] No reply from Marionette:Register
+1613807919370	geckodriver	INFO	Listening on 127.0.0.1:60829
+1613807923387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileNeWWZ1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613807925775	Marionette	INFO	Listening on port 60837
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613807926092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613807926109	Marionette	ERROR	[15] No reply from Marionette:Register
+1613808335618	geckodriver	INFO	Listening on 127.0.0.1:61045
+1613808338700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofiletVOeec"
+*** You are running in headless mode.
+1613809012148	geckodriver	INFO	Listening on 127.0.0.1:64111
+1613809015230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilefywGTi"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613809018782	Marionette	INFO	Listening on port 64128
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613809018963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613809018982	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1613809076704	Marionette	INFO	Stopped listening on port 64128
+1613809080599	geckodriver	INFO	Listening on 127.0.0.1:64245
+1613809083681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofile1NAipq"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613809086125	Marionette	INFO	Listening on port 64253
+1613809086362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613809086377	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1613809178987	Marionette	INFO	Stopped listening on port 64253
+1613809180290	geckodriver	INFO	Listening on 127.0.0.1:64494
+1613809183336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilergeluF"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613809185656	Marionette	INFO	Listening on port 64504
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613809186010	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613809186026	Marionette	ERROR	[15] No reply from Marionette:Register
+1613809222046	Marionette	INFO	Stopped listening on port 64504
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NS_ERROR_FAILURE
+1613809223513	geckodriver	INFO	Listening on 127.0.0.1:64582
+1613809226605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilechNDkS"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613809228963	Marionette	INFO	Listening on port 64590
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613809229285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613809229301	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1613809310543	Marionette	INFO	Stopped listening on port 64590
+1613809312056	geckodriver	INFO	Listening on 127.0.0.1:64717
+1613809315086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileiaavck"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613809317358	Marionette	INFO	Listening on port 64725
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613809317770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613809317786	Marionette	ERROR	[18] No reply from Marionette:Register
+1613809362643	Marionette	INFO	Stopped listening on port 64725
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NS_ERROR_FAILURE
+1613809364806	geckodriver	INFO	Listening on 127.0.0.1:64823
+1613809367857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilexlJCQd"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613809370230	Marionette	INFO	Listening on port 64838
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613809370552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613809370569	Marionette	ERROR	[15] No reply from Marionette:Register
+1613810893453	geckodriver	INFO	Listening on 127.0.0.1:65360
+1613810896468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilexMKt2i"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613810898823	Marionette	INFO	Listening on port 65369
+1613810899181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613810899216	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1613810959901	Marionette	INFO	Stopped listening on port 65369
+1613810964513	geckodriver	INFO	Listening on 127.0.0.1:65493
+1613810967572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofile3BpJS4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613810970101	Marionette	INFO	Listening on port 65502
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613810970261	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613810970277	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1613812964896	geckodriver	INFO	Listening on 127.0.0.1:49418
+1613812967962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileSuU5MF"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613812970467	Marionette	INFO	Listening on port 49426
+1613812970667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613812970685	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613813033671	geckodriver	INFO	Listening on 127.0.0.1:49508
+1613813036751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileDcKTKa"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613813039067	Marionette	INFO	Listening on port 49516
+1613813039452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613813039474	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613813097058	Marionette	INFO	Stopped listening on port 49516
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NS_ERROR_FAILURE
+1613813098733	geckodriver	INFO	Listening on 127.0.0.1:49609
+1613813101824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilektw8BU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613813104095	Marionette	INFO	Listening on port 49617
+1613813104522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613813104539	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1613813253201	geckodriver	INFO	Listening on 127.0.0.1:50094
+1613813256272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofileOMDOWE"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613813258621	Marionette	INFO	Listening on port 50108
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613813258958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613813258974	Marionette	ERROR	[15] No reply from Marionette:Register
+1613813309848	Marionette	INFO	Stopped listening on port 50108
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NS_ERROR_FAILURE
+1613813311347	geckodriver	INFO	Listening on 127.0.0.1:50199
+1613813314444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sunny\\AppData\\Local\\Temp\\rust_mozprofilel94tz8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613813316810	Marionette	INFO	Listening on port 50211
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613813317137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613813317153	Marionette	ERROR	[15] No reply from Marionette:Register
